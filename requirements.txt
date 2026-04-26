@@ -5,4 +5,7 @@ Pillow
 scikit-learn
 scipy
 scikit-image
+geopandas
+shapely
 fpdf
+pyogrio
