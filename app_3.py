@@ -23,7 +23,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🌱 AGREEL PRO")
+st.title("🌱 AGREEL")
 st.subheader("Análise inteligente de vigor vegetativo (NDVI)")
 
 st.sidebar.header("Upload das bandas")
