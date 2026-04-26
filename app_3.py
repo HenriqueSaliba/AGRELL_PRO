@@ -26,7 +26,7 @@ st.markdown("""
 st.title("🌱 AGREEL")
 st.subheader("Análise inteligente de vigor vegetativo (NDVI)")
 
-st.sidebar.header("Upload das bandas")
+st.sidebar.header("Insira suas imagens")
 
 red_file = st.sidebar.file_uploader("Banda RED", type=["png", "jpg", "jpeg", "tif", "tiff"])
 nir_file = st.sidebar.file_uploader("Banda NIR", type=["png", "jpg", "jpeg", "tif", "tiff"])
